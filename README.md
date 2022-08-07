@@ -1,6 +1,5 @@
-### Hi there 👋
-
-<!--
+<!--  daily.dev BOOKMARKS:START -->
+<!--  daily.dev BOOKMARKS:END --><!--
 **whoisdsmith/whoisdsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
