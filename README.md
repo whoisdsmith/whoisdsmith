@@ -1,7 +1,7 @@
 <h1 align="center"> 💫 About Me: </h1>
 
 
-<p align="center"> My development skills are equivlant to letting a child touch the controls of a NASA launch. </p> 
+<p align="center"> My development skills are equivalent to letting a child touch the controls of a NASA launch. </p> 
 
 <p align="center"> I am a certified Engineer of Chaos and Fuckery though. </p>
 
